@@ -33731,7 +33731,7 @@
     </maplayer>
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" geometry="No geometry" type="vector" hasScaleBasedVisibilityFlag="0">
       <id>vl_pipe_material20130304110005230</id>
-      <datasource>service='qWat' sslmode=allow key='id' table="qwat_vl"."pipe_material" sql=</datasource>
+      <datasource>service='qWat' sslmode=allow key='id' table="qwat_vl"."vw_pipe_material" sql=</datasource>
       <title></title>
       <abstract></abstract>
       <keywordList>
